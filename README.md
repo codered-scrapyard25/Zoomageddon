@@ -12,6 +12,8 @@ Zoomageddon is a multi-threaded Python application designed to create a hilariou
 2. **Random Sound Player**: Plays random weird sound effects at unpredictable intervals.
 3. **Random Website Opener**: Opens bizarre websites randomly when a browser window is detected.
 
+This project was made @ **Scrapyard Hyderabad 2025** by **Team CodeRed**
+
 ## Features
 
 - Voice recording and transcription using AssemblyAI
