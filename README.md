@@ -61,13 +61,13 @@ If you don't want to set up your own music, API keys, or configure the applicati
 
 2. Install all requirements.
    ```
-   pip install pyttsx3 pyautogui pyaudio assemblyai groq pygame pygetwindow
+   pip install -r requirements.txt
    ```
 
-3. Run the executable:
-   - On Windows: Double-click on `zoomageddon.exe`
-   - On macOS: Double-click on `zoomageddon.app`
-   - On Linux: Run `./zoomageddon` in terminal
+3. Run the zoomageddon example execution file:
+   ```
+   python zoomageddon_exec.py
+   ```
 
 The pre-configured version includes:
 - 10+ weird sound effects
@@ -87,15 +87,11 @@ To switch to the full version later, follow the standard installation instructio
 
 ### 
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/zoomageddon.git
-   cd zoomageddon
-   ```
+1. Clone the repository.
 
 2. Install required packages:
    ```
-   pip install pyttsx3 pyautogui pyaudio assemblyai groq pygame pygetwindow
+   pip install -r requirements.txt
    ```
 
 3. Create a "Weird Sounds" folder and add some .mp3 or .wav files to it.
