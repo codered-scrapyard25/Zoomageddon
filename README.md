@@ -1,4 +1,4 @@
-# Zoomageddon
+# Zoomageddon 🔥
 
 A chaotic desktop prank application that records audio, takes screenshots, plays random sounds, and opens random websites while you're browsing.
 
